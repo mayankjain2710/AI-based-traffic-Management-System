@@ -47,8 +47,8 @@ pip install -r requirements.txt
 python main.py
 ```
 
-# 📷 Input
+## 📷 Input
 Live camera feed or pre-recorded traffic videos
 
-# 📈 Output
+## 📈 Output
 Optimized traffic light timings
